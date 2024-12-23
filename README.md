@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vikasgodara290
-- 👀 I’m interested in Android Development & Competitive programming in java
-- 🌱 I’m currently learning Android Development & Competitive programming in java
-- 💞️ I’m looking to collaborate on android app project
+- 👀 I’m interested in Web Dev (MERN) & Competitive programming in java
 - 📫 How to reach me vikasgodara290@gmail.com
 
 <!---
